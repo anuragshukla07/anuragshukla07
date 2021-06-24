@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragshukla07
+- 👋 Hi, I’m Anurag Shukla
 - 👀 I’m interested in ...Coding , FIFA , Football , Backend Web Dev , Music etc etc.
 - 🌱 I’m currently learning ...Python , Flask.
 <!---
