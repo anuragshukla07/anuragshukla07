@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Flask**
+- 💬 Ask me about **Python,Flask**
 
 - 📫 How to reach me **anuragshukla07official@gmail.com**
 
@@ -20,7 +20,6 @@
 <a href="https://twitter.com/_anuragshukla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anuragshukla_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuragshukla07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragshukla07" height="30" width="40" /></a>
 <a href="https://instagram.com/the_stable_atom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_stable_atom" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anurogue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anurogue" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuragshukla07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragshukla07" height="30" width="40" /></a>
 </p>
 
