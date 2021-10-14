@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshukla07" alt="anuragshukla07" /></a> </p>
 
+<p align="center">
+
 - 🔭 I’m currently working on **Travel-Website**
 
 - 🌱 I’m currently learning **Django**
@@ -14,6 +16,8 @@
 - 📫 How to reach me **anuragshukla07official@gmail.com**
 
 - ⚡ Fun fact **Ask me about Football ;)**
+  
+</p>  
 
 [![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
 
