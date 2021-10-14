@@ -5,6 +5,8 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=anuragshukla07&theme=onedark" alt="anuragshukla07" /></a> </p>
 
+<br />
+
 <p align="center">
 
 - 🔭 I’m currently working on **Travel-Website**
@@ -17,7 +19,9 @@
 
 - ⚡ Fun fact **Ask me about Football ;)**
   
- </p>  
+ </p>
+ 
+<br /> 
 
 [![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
 
