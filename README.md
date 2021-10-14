@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Ask me about Football ;)**
   
-</p>  
+ </p>  
 
 [![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
 
