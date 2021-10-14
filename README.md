@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **Ask me about Football ;)**
 
+[](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_anuragshukla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anuragshukla_" height="30" width="40" /></a>
