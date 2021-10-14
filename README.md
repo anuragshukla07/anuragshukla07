@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Ask me about Football ;)**
 
-[](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
+[![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
 
 
 <h3 align="left">Connect with me:</h3>
