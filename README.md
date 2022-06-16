@@ -23,7 +23,7 @@
  
 <br /> 
 
-[![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]()
+<!-- [![Anurag Shukla](https://activity-graph.herokuapp.com/graph?username=anuragshukla07&theme=react-dark)]() -->
 
 
 <h3 align="center">Connect with me:</h3>
