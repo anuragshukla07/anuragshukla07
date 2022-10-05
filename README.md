@@ -9,7 +9,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on **Travel-Website**
+<!-- 🔭 I’m currently working on **Travel-Website** -->
 
 - 🌱 I’m currently learning **Django**
 
