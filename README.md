@@ -11,9 +11,9 @@
 
 <!-- 🔭 I’m currently working on **Travel-Website** -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning about **Web3.0**
 
-- 💬 Ask me about **Python,Flask**
+- 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **anuragshukla07official@gmail.com**
 
