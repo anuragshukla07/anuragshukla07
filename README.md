@@ -11,9 +11,9 @@
 
 <!-- 🔭 I’m currently working on **Travel-Website** -->
 
-- 🌱 I’m currently learning about **Web3.0**
+- 🌱 I’m currently learning about **AI and Stuff**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django,Angular,Langchain,LLMs...etc.**
 
 - 📫 How to reach me **anuragshukla07official@gmail.com**
 
