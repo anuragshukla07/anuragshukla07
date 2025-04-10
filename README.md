@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Shukla</h1>
-<h3 align="center">Web | Cloud | Data Base | Data Analysis</h3>
+<h3 align="center">Web | Cloud | AI | LLMs | Database | Data Analysis</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragshukla07&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshukla07" align='center'/> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about **AI and Stuff**
 
-- 💬 Ask me about **Python,Django,Angular,Langchain,LLMs...etc.**
+- 💬 Ask me about **Python, Django, Angular, Langchain, LLMs...etc.**
 
 - 📫 How to reach me **anuragshukla07official@gmail.com**
 
@@ -39,7 +39,7 @@
   <a href="https://www.angular.dev/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="js" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anuragshukla07&show_icons=true&locale=en&layout=compact&theme=react" alt="anuragshukla07" /></p>
 
